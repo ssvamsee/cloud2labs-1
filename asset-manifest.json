@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cloud2labs/static/css/main.0ad6eddd.css",
+    "main.js": "/cloud2labs/static/js/main.49e1014e.js",
+    "index.html": "/cloud2labs/index.html",
+    "main.0ad6eddd.css.map": "/cloud2labs/static/css/main.0ad6eddd.css.map",
+    "main.49e1014e.js.map": "/cloud2labs/static/js/main.49e1014e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad6eddd.css",
+    "static/js/main.49e1014e.js"
+  ]
+}
